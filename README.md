@@ -1,8 +1,8 @@
 # Radius Botnet
 
-Obs: I am not responsible and I do not authorize illegal use of this software.
+<b>I am not responsible and I do not authorize illegal use of this software.</b>
 
-This botnet was created as a simple project to remote control computers on my own network.
+This botnet was created as a simple project to remote control computers in my own network.
 
 # Backdoor Functionalities
 
