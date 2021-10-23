@@ -1,4 +1,4 @@
-# RadiusBotnet
+# Radius Botnet
 
 Obs: I am not responsible and I do not authorize illegal use of this software.
 
