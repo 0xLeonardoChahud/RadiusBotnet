@@ -21,5 +21,5 @@ This botnet was created as a simple project to remote control computers in my ow
   - Accept particular maximum number of clients
 
 # Compiling Client Executable
-  Command that I used : pyinstaller --clean -F -w --icon="your_icon.ico" --add-data="certs/cert.pem;certs" client.py
+  Command that I used : <code>pyinstaller --clean -F -w --icon="your_icon.ico" --add-data="certs/cert.pem;certs" client.py</code>
   
